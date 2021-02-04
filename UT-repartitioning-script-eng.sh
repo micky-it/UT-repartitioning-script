@@ -62,7 +62,7 @@ then
 	
 	else
 	  adb shell sudo losetup -c /dev/loop0
-	  echo -e "$LRED\bAn error has occurred! Please see the guide for more details $Z"
+	  echo -e "$LRED\bAn error has occurred! $Z"
 	  exit 0
 	fi
     
