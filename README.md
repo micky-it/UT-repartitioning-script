@@ -34,6 +34,11 @@ It is very simple to use this script. Here's what you need to do before running 
 - Run this script **on your computer terminal**
 - Follow the instructions of the script
 
+For Mac OS
+- Download and install adb and fastboot on your mac
+- Download the latest version of the specific script for mac
+- Execute the script in the terminal
+
 ## Donations
 I am 13 years old and I really like computer science and programming. If you think this script was useful for you, you can support me by donating bitcoins to the following address:
 
