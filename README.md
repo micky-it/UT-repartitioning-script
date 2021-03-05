@@ -1,7 +1,7 @@
 # UTouch-repartitioning-script
 
 ![](https://raw.githubusercontent.com/micky-it/UTouch-repartitioning-script/master/images/1843.png)
-Hi! I created this script to make resizing / partition as easy as possible in your Ubuntu phone. After running this script, your / partition will resize from 2.0G to approx. 7.7G. This script only works if your / partition name is /dev/loop0 ! (In future versions of this script, I will also add an option to resize other partitions)
+Hi! I created this script to make resizing / partition as easy as possible in your Ubuntu phone. After running this script, your / partition will resize from 2.0G to approx. 7.7G. This script only works if your / partition name is /dev/loop0 ! (In future, I will also create a script for resize other partitions)
 
 ***Warning! The owner of this script is in no way responsible of any problem with your phone***
 
